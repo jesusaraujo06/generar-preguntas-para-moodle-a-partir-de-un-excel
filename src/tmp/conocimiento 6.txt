@@ -1,0 +1,40 @@
+
+El contexto externo e interno es el entorno en el que la organización busca definir y alcanzar sus objetivos.  {T}
+
+El contexto del proceso de gestión del riesgo debe establecerse a partir de la comprensión del entorno externo e interno en el que opera la organización y debe reflejar el entorno específico de la actividad a la que se aplicará el proceso de gestión de riesgos.   {T}
+
+Entender el contexto es importante porque  { 
+~La gestión de riesgos se lleva a cabo en el contexto de los objetivos y actividades de la organización 
+~Los factores organizacionales pueden ser una fuente de riesgo 
+~El objetivo y el alcance del proceso de gestión pueden estar interrelacionados con los objetivos de la organización en su conjunto 
+=Todas las anteriores  }
+
+el contexto externo de la organización puede incluir, pero no se limita a Factores sociales, culturales, políticos, jurídicos, reglamentarios, financieros, tecnológicos, económicos y medioambientales, ya sean internacionales, nacionales, regionales o locales, principales impulsores y tendencias que afectan a los objetivos de la organización;  relaciones externas, percepciones, valores, necesidades y expectativas de los interesados;  relaciones contractuales y compromisos; complejidad de las redes y las dependencias.  {T}
+
+Examinar el contexto interno de la organización puede incluir, pero no se limita a  { 
+~Visión, misión y valores 
+~Gobernanza, estructura organizativa, roles y responsabilidades 
+~Estrategia, objetivos y políticas 
+~Cultura de la organización 
+~Normas, directrices y modelos adoptados por la organización 
+=Todas las anateriores  }
+
+Examinar el contexto interno de la organización puede incluir, pero no se limita a  Capacidades, entendidas en términos de recursos y conocimientos (por ejemplo, capital, tiempo, personas, propiedad intelectual, procesos, sistemas y tecnologías) { 
+~Datos, sistemas de información y flujos de información 
+~Relaciones las partes interesadas internas, teniendo en cuenta sus percepciones y valores 
+~Relaciones contractuales y compromisos 
+~Interdependencias e interconexiones.  
+=Todas las anteriores  }
+
+Los aspectos sociales, como la posición socioeconómica, la raza, la etnia y la cultura, el género, las relaciones sociales y el contexto residencial y comunitario pueden afectar el riesgo tanto directa como indirectament Los impactos pueden ser a largo plazo y no ser visibles inmediatamente, y pueden requerir una perspectiva de planificación a largo plazo. {T}
+
+La incertidumbre en los resultados de los análisis se puede deber a que Los datos del pasado podrían no proporcionar una base confiable para pronosticar el presente porque algo dentro del contexto o las circunstancias ha cambiado. {F}
+
+Las valoraciones se deberían revisar periódicamente para identificar si se han producido cambios, incluidos cambios en el contexto o en las suposiciones, y si hay nueva información o nuevos métodos disponibles. {T}
+
+DOFA (debilidades, oportunidades, fortalezas y amenazas) identifica factores en el contexto interno y externo para ayudar a establecer los objetivos y las estrategias para alcanzarlos, teniendo en cuenta el riesgo. {T}
+
+PESTLE, STEEP, STEEPLED, et son siglas que representan tipos de factores por considerar al establecer el contexto o identificar riesgos. {T}
+
+Es necesario desarrollar una matriz de consecuencias/probabilidad que se adapte al contexto. {T}
+

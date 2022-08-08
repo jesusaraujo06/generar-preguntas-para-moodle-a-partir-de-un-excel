@@ -1,0 +1,5 @@
+
+La aplicación del SIREL Este  servicio  aplica  únicamente  a entidades  que  tienen  la  obligación de  reportar a  la UIAF y que aún no están inscritas en la base de datos de la UIAF.   La  solicitud  de  código  se  realiza  accediendo  a  través  de  la  página  web  de  la  UIAF www.uiagov.co en el menú SIREL ‐ Solicitud de código  {T}
+
+ La solicitud de usuario o acceso al Sistema de Reporte en Línea se realiza a través de la  página web de la UIAF www.uiagov.co en el menú SIREL ‐ Solicitud de Usuario  {T}
+

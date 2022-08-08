@@ -1,0 +1,18 @@
+{
+    "name": "tesla/generate-preguntas-moodle",
+    "autoload": {
+        "psr-4": {
+            "Tesla\\GeneratePreguntasMoodle\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jesus Araujo",
+            "email": "jesusaraujo.0699@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.21",
+        "tdtrung17693/php-chalk": "^1.0"
+    }
+}

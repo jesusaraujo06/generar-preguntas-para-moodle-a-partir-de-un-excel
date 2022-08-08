@@ -1,0 +1,15 @@
+
+Todas las transacciones sospechosas, incluyendo la tentativa de realizar la transacción, deben ser reportadas independientemente del monto de la transacción {T}
+
+Las Empresas Obligadas deberán reportarle a UIAF todas las Operaciones Sospechosas que detecten en el giro ordinario de sus negocios o actividades. El reporte deberá hacerse el día siguiente del hallazgo y con naturaleza de ROS, a través del SIREL. {F}
+
+En el evento en que se identifique o verifique cualquier bien, Activo, Producto, fondo o derecho de titularidad a nombre o bajo la administración o control de cualquier país, persona o entidad incluida en estas Listas Vinculantes, el Oficial de Cumplimiento, de manera inmediata, deberá reportarlo a la UIAF y ponerlo en conocimiento de la fiscalía general de la Nación. La información se enviará a la UIAF a través del correo electrónico cumplimientogafi67@uiagov.co {T}
+
+Realizar el Reporte de las Operaciones Sospechosas a la UIAF y cualquier otro reporte o informe exigido por las disposiciones vigentes, conforme lo establezca dichas normas y el Capítulo X de la circular 100-000016 del 2020. { 
+~Representante legal 
+=Oficial de cumplimiento  }
+
+La Empresa Obligada y el Oficial de Cumplimiento deberán garantizar la reserva del reporte de una Operación Sospechosa remitido a la UIAF, según lo previsto en la Ley 526 de 1999. {T}
+
+El requisito de reporte debe ser una obligación preceptiva directa, y no son aceptables obligaciones indirectas o implícitas de reportar transacciones sospechosas, ya sea por causa de un posible proceso por un delito de lavado de activos o de financiamiento del terrorismo u otra cosa (el llamado reporte indirecto). {T}
+

@@ -1,0 +1,9 @@
+
+ El  Sistema  de  Reporte  en  Línea  –SIREL‐  es  un  sistema  seguro  y  fue  diseñado  con  un mecanismo  de  autenticación  de  un solo  factor,  el  cual  cuenta con un  usuario  y contraseña  {F}
+
+En la aplicación del SIREL, la Opción ROS    fue  diseñada para reportar las operaciones sospechosas  por parte de las entidades obligadas, mediante esta opción un sujeto obligado, puede reportar aquellas operaciones  determinadas  como  sospechosas,  las  intentadas  o  rechazadas  que contengan  características  que  les  otorgue  el  carácter  de  sospechosas,  así  como  los reportes  de  ausencia  de  operaciones. {T}
+
+En la aplicación del SIREL, la Opción Reportes Objetivos. A través de esta opción las entidades pueden cargar los reportes o realizar la ausencia  de los mismos {T}
+
+ El Oficial de Cumplimiento para el caso de las Empresas Obligadas deberá registrarse en el SIREL administrado por la UIAF. Para lo anterior, dicho funcionario deberá solicitar ante la Empresa, el usuario y contraseña a través de la plataforma SIREL. {F}
+

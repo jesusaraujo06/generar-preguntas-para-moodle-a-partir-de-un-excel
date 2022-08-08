@@ -1,0 +1,82 @@
+
+El SAGRILAFT debe permitirle a las Empresas Obligadas identificar los Factores de Riesgo LA/FT/FPADM, así como los riesgos asociados con ést  {T}
+
+Para la  identificación del Riesgo LA/FT/FPADM, las Empresas Obligadas deben, como mínimo { 
+~Establecer, una vez sean identificados, individualizados, segmentados y clasificados los Factores de Riesgo LA/FT/FPADM, las metodologías para identificar el riesgo específico de LA/FT/FPADM que puede llegar a enfrentar la Empresa Obligada, así como otros posibles riesgos asociados. Con base en esa clasificación y segmentación, se deben señalar, identificar e individualizar los riesgos. 
+=Disponer e implementar los mecanismos y medidas que le permitan un adecuado conocimiento, identificación e individualización de los Factores de Riesgo LA/FT/FPADM que le resultan aplicables. 
+~Evaluar el Riesgo LA/FT/FPADM cuando incursione en nuevos mercados u ofrezca nuevos Productos. 
+~Toda las anteriores  }
+
+Para la  identificación del Riesgo LA/FT/FPADM, las Empresas Obligadas deben, como mínimo { 
+~Clasificar  los  Factores  de  Riesgo  LA/FT/FPADM  de  conformidad  con  la  actividad económica de la Empresa Obligada y su materialida 
+~Establecer,  una  vez  clasificados  y  segmentados  los  Factores  de  Riesgo LA/FT/FPADM, las condiciones de tiempo, modo y lugar, así como la relevancia y la prioridad con que se deben ejecutar las medidas de Debida Diligenci  
+=Todas las anteriores  }
+
+Concluida  la  etapa  de  identificación,  el  SAGRILAFT  debe  permitirle  a  las  Empresas Obligadas  medir  la  posibilidad  o  probabilidad  de  ocurrencia  del  Riesgo  Inherente  frente  a cada  uno  de  los  Factores  de  Riesgo  LA/FT/FPADM,  así  como  el  impacto  en  caso  de materializarse  mediante  los  riesgos  asociados.  Estas  mediciones  podrán  ser  de  carácter cualitativo o cuantitativo. {T}
+
+Como  resultado de la etapa de Medición o evaluación del Riesgo LA/FT/FPADM,  las  Empresas  Obligadas  deben  estar  en  capacidad  de establecer  los riesgos Inherente  de  la  Empresa,  de  las  mediciones  agregadas  en cada  Riesgo LA/FT/FPADM y en sus riesgos asociados.   {F}
+
+Dentro de la medición o evaluación del Riesgo LA/FT/FPADM, las Empresas Obligadas deben, como mínimo { 
+~Establecer  las  metodologías  para  la  medición  o  evaluación  del  Riesgo LA/FT/FPADM,  con  el  fin  de  determinar  la  posibilidad  o  probabilidad  de  su ocurrencia y el impacto en caso de materializars  
+~Incluir mediciones o evaluaciones del Riesgo LA/FT/FPADM de manera individual y consolidadas  frente  a  cada  uno  de  los  Factores  de  Riesgo  LA/FT/FPADM  y  los riesgos específicos que fueron identificados. 
+~Evaluar el Riesgo LA/FT/FPADM cuando incursione en nuevos mercados u ofrezca nuevos Productos.  
+=Todas las anteriores  }
+
+Dentro de la medición o evaluación del Riesgo LA/FT/FPADM, las Empresas Obligadas deben, como mínimo { 
+=Incluir mediciones o evaluaciones del Riesgo LA/FT/FPADM de manera individual y consolidadas frente a cada uno de los Factores de Riesgo LA/FT/FPADM y los riesgos específicos que fueron identificados. 
+~Establecer, una vez clasificados y segmentados los Factores de Riesgo LA/FT/FPADM, las condiciones de tiempo, modo y lugar, así como la relevancia y la prioridad con que se deben ejecutar las medidas de Debida Diligenci 
+~Toda las anteriores  }
+
+El  SAGRILAFT  debe  permitirle  a  las  Empresas  Obligadas  tomar  las  Medidas  Razonables para el control del Riesgo Inherente al que se vean expuestas.  {T}
+
+Como  resultado  de  la  aplicación  de  los  controles  respectivos,  las  Empresas  Obligadas deben  estar  en  capacidad  de  establecer  su  perfil  de  riesgo inherent  {F}
+
+El  control  debe traducirse  en  una  disminución  de  la  posibilidad  o  probabilidad  de  acaecimiento  del  Riesgo LA/FT/FPADM o del impacto en caso de materializars {T}
+
+Para controlar el Riesgo LA/FT/FPADM, las Empresas Obligadas deben adoptar, entre otras medidas,  el  establecimiento  de  metodologías  y  la  creación  de  una  Matriz  de  Riesgo LA/FT/FPADM para definir los mecanismos de control más adecuados y su aplicación a los Factores de Riesgo LA/FT/FPADM identificados.  {T}
+
+Para controlar el Riesgo LA/FT/FPADM, la Empresa Obligada debe, como mínimo { 
+~Establecer las metodologías para la medición o evaluación del Riesgo LA/FT/FPADM, con el fin de determinar la posibilidad o probabilidad de su ocurrencia y el impacto en caso de materializars 
+~Clasificar los Factores de Riesgo LA/FT/FPADM de conformidad con la actividad económica de la Empresa Obligada y su materialida 
+=Establecer las metodologías para definir las Medidas Razonables de control del Riesgo LA/FT/FPADM. 
+~Toda las anteriores  }
+
+El  SAGRILAFT  debe  permitirle  a  las  Empresas  Obligadas  ejercer  control  respecto  del perfil  de  riesgo  y,  en  general,  estar  en  condiciones  de  detectar  riesgos y Operaciones Sospechosas.   {F}
+
+Para monitorear el Riesgo LA/FT/FPADM, las Empresas Obligadas deben, como mínimo { 
+~Asegurar que los controles sean integrales y se refieran a todos los riesgos y que funcionen en forma oportuna, efectiva y eficient 
+~Realizar el seguimiento periódico y comparativo del Riesgo Inherente y Riesgo Residual de cada Factor de Riesgo LA/FT/FPADM y de los riesgos asociados. 
+=Toda las anteriores  }
+
+Que deben de hacer las empresas obligadas para consolidar e identificar alertas presentes o futuras con respecto al Riesgo LA/FT/FPADM. { 
+~%50%	una base de datos 
+~%50%	otro mecanismo 
+~%-5%	Contactar agentes del estado 
+~%-5%	Ninguna de las anteriores  }
+
+Según la gestión del riesgo El objetivo de la comunicación y la consulta es ayudar a las partes interesadas relevantes a comprender el riesgo, la base sobre la cual se toman las decisiones y las razones por las cuales se requieren acciones particulares. La comunicación  busca promover la conciencia y la comprensión del riesgo, mientras que la consulta  implica obtener retroalimentación e información para apoyar la toma de decisiones.  {T}
+
+ En la gestión de riesgos La comunicación y la consulta pretenden  { 
+=Reunir diferentes áreas de especialización para cada paso del proceso de gestión de riesgos 
+~Reunir a los organos de control para gestión de riesgos 
+~Reunir a la alta gerencia para el proceso de gestión de riesgos 
+~Ninguna de las anteriores  }
+
+En la gestión de riesgos La comunicación y la consulta pretenden  { 
+~Asegurarse que se tengan en cuenta las diferentes opiniones al definir los criterios de riesgo y al evaluar los riesgos 
+~Proporcionar información suficiente para facilitar la supervisión de riesgos y la toma de decisiones 
+~ Construir un sentido de inclusión y propiedad entre los afectados por el riesgo 
+=Todas las anteriores  }
+
+En la gestión de riesgo El propósito de establecer el alcance, el contexto y los criterios es personalizar el proceso de gestión de riesgos, permitiendo una evaluación efectiva del riesgo y un tratamiento de riesgo adecuado. El alcance, el contexto y los criterios implican definir el alcance del proceso y comprender el contexto interno.  {T}
+
+La organización debería definir el alcance de sus actividades de gestión de riesgos.    {T}
+
+Dado que el proceso de gestión del riesgo puede aplicarse en diferentes niveles (por ejemplo, actividades estratégicas, operacionales, de programas, de proyectos u otras), es importante tener claro el alcance que se está examinando, los objetivos pertinentes que deben tenerse en cuenta y su vinculación con objetivos organizacionales.   {T}
+
+Al planear el enfoque, las consideraciones incluyen  { 
+~Objetivos y decisiones que deben adoptarse 
+~Los resultados esperados de los pasos que deben adoptarse en el proceso 
+~Tiempo, ubicación, inclusiones y exclusiones específicas; herramientas y técnicas apropiadas de evaluación de riesgos; recursos requeridos, responsabilidades y registros que se deben mantener; relaciones con otros proyectos, procesos y actividades.  
+=Todas las anteriores  }
+

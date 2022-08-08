@@ -1,0 +1,174 @@
+
+El SAGRILAFT deberá establecer, una Política LA/FT {T}
+
+El SAGRILAFT deberá establecer, manual de procedimientos de gestión del Riesgo LA/FT/FPADM {T}
+
+El SAGRILAFT debe _________ y _________ los Riesgos LA/FT/FPADM de cada Empresa Obligada, con la premisa que a mayor riesgo se debe tener mayor control. { 
+=Identificar / Manejar 
+~Confrontar/ Acatar  }
+
+Son elementos del SAGRILAFT  { 
+~%50% Diseño 
+~%-5% Segmentación 
+~%-5% Identificación 
+~%50% Aprobación  }
+
+La aprobación del SAGRILAFT será responsabilidad { 
+~Representante legal 
+~Oficial de Cumplimiento 
+=Junta directiva  }
+
+Con el fin de que en la Empresa Obligada haya una persona responsable de la auditoría y verificación del cumplimiento del SAGRILAFT, se deberá designar un _______________________________ { 
+=Oficial de Cumplimiento. 
+~Auditor externo 
+~Auditor interno 
+~Ninguna de las anteriores.  }
+
+El Oficial de Cumplimiento deberá tener un título Tecnológico y acreditar experiencia mínima de seis (6) meses en el desempeño de cargos relacionados con la administración del SAGRILAFT {F}
+
+El SAGRILAFT debe incluir las sanciones o consecuencias para empleados, administradores, asociados o terceros, por el incumplimiento o inobservancia de sus disposiciones. {T}
+
+El SAGRILAFT deberá ser divulgado dentro de la Empresa Obligada y a las demás partes interesadas, en la forma y frecuencia para asegurar su adecuado cumplimiento, cada dos (2) años. {F}
+
+la Empresa Obligada deberá brindarles capacitación a aquellos empleados, asociados y, en general, a todas las partes interesadas que considere que deban conocer el SAGRILAFT {T}
+
+Con las capacitaciones en SAGRILAFT, todas las partes interesadas deberán estar en capacidad de identificar qué es una _____________ o qué es una ___________________, y el contenido y la forma como debe reportarse, entre otras { 
+~Debida Diligencia/ Debida Diligencia Intensificada 
+=Operación Sospechosa/ Operación Inusual 
+~Financiamiento del Terrorismo/ Financiamiento de la Proliferación de Armas de Destrucción Masiva  }
+
+En una empresa XXX la junta dierectiva, delegó al representante legal la implementación del sistema SAGRILAFT. ¿A quién le corresponde hacerel nombramiento del oficial de cumplimiento? { 
+~Al rpresentante legal 
+=A la junta directiva 
+~Al Gerente general  }
+
+El proyecto de SAGRILAFT deberá ser presentado por { 
+~%-5% Junta directiva 
+~%50% Representante legal 
+~%-5% Gerente 
+~%50% Oficial de Cumplimiento  }
+
+Con el fin de que en la Empresa Obligada haya una persona responsable de la auditoría y verificación del cumplimiento del SAGRILAFT, se deberá designar un { 
+=Oficial de Cumplimiento. 
+~Auditor externo 
+~Auditor interno 
+~Ninguna de las anteriores  }
+
+El Oficial de Cumplimiento deberá tener un título Tecnológico y acreditar experiencia mínima de seis (6) meses en el desempeño de cargos relacionados con la administración del SAGRILAFT. {F}
+
+¿ Quién es el responsable de la puesta en marcha y efectividad del SAGRILAFT { 
+~Oficial de cumplimiento 
+=Junta directiva 
+~Representa legal 
+~Gerente  }
+
+¿ Quién es el encargado de Aprobar el manual de procedimientos SAGRILAFT y sus actualizaciones? { 
+~Representante legal 
+~Oficial de cumplimiento 
+=Junta directiva 
+~Gerente  }
+
+Asegurarse de que las actividades que resulten del desarrollo del SAGRILAFT se encuentran debidamente documentadas, de modo que se permita que la información responda a unos criterios de integridad, confiabilidad, disponibilidad, cumplimiento, efectividad, eficiencia y confidencialida { 
+~Oficial de cumplimiento 
+~Gerente 
+~Junta directiva 
+=Representante legal  }
+
+73.	Certificar ante la Superintendencia de Sociedades el cumplimiento de lo previsto en el Capítulo X de la Circular 100-000016, cuando lo requiera esta Superintendenci  En los casos en que no exista una junta directiva, el representante legal propondrá la persona que ocupará la función de Oficial de Cumplimiento, para la designación por parte del máximo órgano social. { 
+=Representante legal 
+~Oficial de cumplimiento 
+~Junta directiva  }
+
+Verificar que los procedimientos del SAGRILAFT desarrollen la Política LA/FT/FPADM { 
+=Oficial de cumplimiento 
+~Representante legal  }
+
+Significado de ISO { 
+=Organización Internacional de Normalización 
+~Organicación Normas internacionales para organizaciones 
+~Organización Internacional de Normalización para riesgos 
+~Todas las anteriores  }
+
+La  gestión  del  riesgo  es  iterativa  y  ayuda  a  las  organizaciones  a  establecer estrategias, alcanzar objetivos y tomar decisiones informadas. {T}
+
+La gestión del riesgo se basa en los principios, el marco y el proceso. {F}
+
+Según ISO 31000, la definicipon de riesgo es { 
+=Efecto de la incertidumbre sobre los objetivos 
+~Posibilidad de que se produzca un contratiempo o una desgracia, de que alguien o algo sufra perjuicio o daño 
+~Situación en que puede darse esa posibilidad  }
+
+Gestipon de riesgos Actividades  coordinadas  para  dirigir  y  controlan  la  organización  con  respecto  al riesgo. {T}
+
+Posibilidad, en  la  terminología  de  gestión  del  riesgo,  se  utiliza  para  referirse  a { 
+=Posibilidad de que algo suceda, ya sea definido, medido o determinado de manera  objetiva o subjetiva, cualitativa o cuantitativamente, y utilizando términos generales o específicos. 
+~Probabilidad e que algo suceda, ya sea definido, medido o determinado de manera  objetiva o subjetiva, cualitativa o cuantitativamente, y utilizando términos generales o específicos. 
+~Todas las anteriores  }
+
+Control Medida que mantiene y/o modifica el riesgo. {T}
+
+El propósito de la gestión de riesgos según ISO 310002018 Es la creación y protección del valor. Mejora el rendimiento, fomenta la innovación y apoya el logro de objetivos.  {T}
+
+Según el principio de la gestión de riesgo _______________________ La gestión de riesgos es una parte integral de todas las actividades organizacionales. { 
+=Integrada 
+~Integral 
+~Adaptada 
+~Inclusiva  }
+
+El principio de la gestión de riesgo Estructurada y global, hace referencia a Un enfoque estructurado y global de la gestión de riesgos contribuye a resultados coherentes. {T}
+
+El principio de la gestión de riesgo A la medida hace referencia a { 
+~La participación adecuada y oportuna de las partes interesadas permite que se tengan en cuenta sus conocimientos, puntos de vista y percepciones. Esto se traduce en una mejor conciencia y una gestión de riesgos informad 
+=El marco y el proceso de gestión de riesgos son personalizados y proporcionales al contexto externo e interno de la organización en relación con sus objetivos. 
+~Los riesgos pueden surgir, cambiar o desaparecer a medida que cambia el contexto externo e interno de una organización. La gestión de riesgos anticipa, detecta, reconoce y responde a esos cambios y eventos de manera apropiada y oportun  }
+
+El principio de la gestión de riesgo Inclusiv La participación adecuada y oportuna de las partes interesadas permite quese tengan en cuenta sus conocimientos, puntos de vista y percepciones. Esto se traduce en una mejor conciencia y una gestión de riesgos informad  {T}
+
+El principo de la gestipon de riesgo _____________________ Los riesgos pueden surgir, cambiar o desaparecer a medida que cambia elcontexto externo e interno de una organización. La gestión de riesgos anticipa, detecta, reconoce y responde a esos cambios y eventos de manera apropiada y oportun { 
+~Actualizada 
+=Dinámica 
+~Integrada 
+~A la medida  }
+
+La mejor información disponible según ISO 310002018. Las aportaciones a la gestión de riesgos se basan en información histórica yactual, así como en las expectativas futuras. La gestión de riesgos tiene en cuenta explícitamente las limitaciones e incertidumbres asociadas con dicha información y expectativas. La información debe ser oportuna, clara y estar disponible para las partes interesadas relevantes.  {T}
+
+Mejora continua La gestión del riesgo se mejora continuamente a través del aprendizaje y la experienci {T}
+
+Según ISO 310002018 5. Marco de trabajo. El objetivo del marco de trabajo de la gestión de riesgos es ayudar a la organización a integrar la gestión del riesgo en las actividades y funciones significativas. La  efectividad de la gestión de riesgos dependerá de su integración en la gobernanza  e la organización, incluyendo la toma de decisiones. Esto requiere el apoyo de las partes interesadas, particularmente la alta dirección.  {F}
+
+ Según ISO 310002018 El desarrollo del marco abarca { 
+~Integración 
+~Diseño 
+~Implementación. 
+~Evaluación 
+~eLa mejora de la gestión de riesgos. 
+=Todas las anteriores  }
+
+Según ISO 310002018 El componente del marco Liderazgo y compromiso hace referencia a { 
+~La integración de la gestión de riesgos depende de la comprensión de las estructuras organizacionales y del contexto. 
+~La gobernanza guía el curso de la organización, las relaciones externas e internas, las reglas, los procesos y las prácticas necesarias para lograr su propósito. 
+=Los órganos superiores de gestión y supervisión, cuando proceda, deberían garantizar que la gestión del riesgo se integre en todas las actividades de la organización y demuestren liderazgo y compromiso.  }
+
+Según ISO 310002018 El componente del marco Integración La integración de la gestión de riesgos depende de la comprensión de las estructuras organizacionales y del contexto. Las estructuras difieren según el propósito, las metas y la complejidad de la organización. El riesgo se gestiona en cada parte de la estructura de la organización. Todos en una organización tienen la responsabilidad de manejar el riesgo.  {T}
+
+Al diseñar el marco de trabajo para la gestión del riesgo, la organización debería { 
+~Comprender la organización y su contexto 
+~Articular el compromiso de gestión de riesgos 
+~Asignar de roles organizacionales, autoridades, funciones y responsabilidades 
+~Asignar recursos 
+~Establecer comunicación y consulta 
+=f, Todas las anteriores  }
+
+Según ISO 310002018. Implementación La organización debería implementar el marco de gestión de riesgos de la siguiente manera Desarrollar un plan apropiado que incluya tiempo y recursos; Identificar dónde, cuándo y cómo se toman diferentes tipos de decisiones en toda la organización, y por qué;  Modificar los procesos de toma de decisiones aplicables cuando sea necesario; Garantizar que las disposiciones de la organización para la gestión del riesgo se entienden y se practican clarament  {T}
+
+Según ISO 310002018. Para evaluar la efectividad del marco de gestión de riesgos, la organización debería  Medir periódicamente el desempeño los actores que intervinen y determinar si sigue siendo adecuado para la consecución de los objetivos de la organización. {F}
+
+Según ISO 310002018. El elemento del marco Adaptación refiere aLa organización debería _________________ y __________________continuamente el marco de gestión de riesgos para abordar los cambios externos e internos. Al hacerlo, la organización puede mejorar su valor.  { 
+=Supervisar/adaptar 
+~Supervisar/organizar 
+~Adaptar/vigilar  }
+
+ La Mejora continua, según ISO 310002018, hace referencia a La organización debería mejorar continuamente su gestión, la adecuación y la supervisión del marco de gestión de riesgos y la forma en que se integra el proceso de gestión del riesgo.  {F}
+
+El proceso de gestión de riesgos implica la aplicación sistemática de políticas, procedimientos y prácticas de actividades de comunicación y consulta, establecer el contexto y valorar, tratar, controlar, revisar, registrar y reportar los riesgos. {T}
+

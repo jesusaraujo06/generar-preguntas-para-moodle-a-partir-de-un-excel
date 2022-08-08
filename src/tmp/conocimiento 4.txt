@@ -1,0 +1,127 @@
+
+De acuerdo a ISO 310002018, el propósito de  Identificación del Riesgo es { 
+~Encontrar los riesgos 
+~Reconocer los riesgos 
+~Describir los riesgos 
+=Todas las anteriores  }
+
+De acuerdo a ISO 310002018, la definición dl propósito de la  Identificación de riesgos  es encontrar, reconocer y describir los riesgos que podrían ayudar o impedir que una organización logre sus objetivos. La información pertinente, apropiada y actualizada es importante para identificar los riesgos.  {T}
+
+La organización puede utilizar una serie de técnicas para identificar las incertidumbres que pueden afectar a uno o más objetivos. {T}
+
+La organización puede utilizar una serie de técnicas para identificar las incertidumbres que pueden afectar a uno o más objetivos. Deben tenerse en cuenta los siguientes factores y la relación entre estos factores  { 
+~Fuentes de riesgo tangibles e intangibles 
+~Causas y eventos 
+~Amenazas y oportunidades 
+~Vulnerabilidades y capacidades 
+=Todas las anteriores  }
+
+La organización puede utilizar una serie de técnicas para identificar las incertidumbres que pueden afectar a uno o más objetivos. Deben tenerse en cuenta los siguientes factores y la relación entre estos factores  { 
+~Cambios en el contexto externo e interno 
+~Indicadores de riesgos emergentes 
+~La naturaleza y el valor de los activos y recursos 
+~consecuencias y su impacto en los objetivos 
+=Todas las anteriores  }
+
+La organización puede utilizar una serie de técnicas para identificar las incertidumbres que pueden afectar a uno o más objetivos. Deben tenerse en cuenta los siguientes factores y la relación entre estos factores  { 
+~limitaciones de conocimiento y fiabilidad de la información   
+~factores relacionados con el tiempo 
+~Prejuicios, suposiciones y creencias de los involucrados 
+=Todas las anteriores  }
+
+La organización debería identificar los riesgos, dependientemente de que sus fuentes estén bajo su control. No debe tenerse en cuenta que puede haber más de un tipo de resultado, lo que puede dar lugar a una variedad de consecuencias tangibles o intangibles.  {F}
+
+Análisis de riesgos  El objetivo del análisis de riesgos es comprender la naturaleza del riesgo y sus características, incluyendo, en su caso, el nivel de riesgo.  {T}
+
+El análisis de riesgos implica un examen detallado de las incertidumbres, las fuentes de riesgo, las consecuencias, las probabilidades, los acontecimientos, los escenarios, los controles y su efectivida Un evento puede tener múltiples causas y consecuencias y puede afectar a múltiples objetivos.  {T}
+
+El análisis de riesgos se puede realizar con diferentes grados de detalle y complejidad, dependiendo del propósito del análisis, la disponibilidad y confiabilidad de la información, y los recursos disponibles.  {T}
+
+Las técnicas de análisis pueden ser cualitativas, cuantitativas pero no combinadas, según las circunstancias y el uso previsto.  {F}
+
+Escoja los factores que se pueden cosiderar para el análisis de riesgo { 
+~%33.33333% La probabilidad de eventos y consecuencias 
+~%33.33333% La naturaleza y magnitud de las consecuencias 
+~%33.33333% Complejidad y conectividad  
+~%-5% Ninguna de las anteriores  }
+
+Escoja los factores que se pueden cosiderar para el análisis de riesgo { 
+~Factores y volatilidad relacionados con el tiempo  
+~La efectividad de los controles existentes 
+~Sensibilidad y niveles de confianza  
+=Todas las anteriores  }
+
+Factores y volatilidad relacionados con el tiempo; la efectividad de los controles existentes; sensibilidad y niveles de confianz  {T}
+
+De acuerdo a ISO 310002018 El propósito de la evaluación del riesgo es apoyar las decisiones.   {T}
+
+De acuerdo a ISO 310002018 La evaluación del riesgo no implica comparar los resultados del análisis de riesgo con los criterios de riesgo establecidos para determinar dónde se requiere una acción adicional.  {F}
+
+El propósito de la evaluación del riesgo, según  ISO 310002018 puede llevar a decisiones como- No hacer nada más- Considere las opciones de tratamiento de riesgo- Realizar análisis adicionales para comprender mejor el riesgo- Mantener los controles existentes- Reconsiderar los objetivos {T}
+
+ El resultado de la evaluación del riesgo debe ser registrado, comunicado y validado en los niveles apropiados de la organización.  {T}
+
+El propósito del tratamiento del riesgo es seleccionar e implementar opciones para anular el riesgo. {F}
+
+El tratamiento del riesgo implica un proceso iterativo de  { 
+~Formular y seleccionar opciones de tratamiento de riesgo 
+~Planificar e implementar el tratamiento del riesgo 
+~Evaluar la efectividad de dicho tratamiento 
+=Todas las Anteriores  }
+
+El tratamiento del riesgo implica un proceso iterativo de  { 
+~Decidir si el riesgo restante es aceptable 
+~Si no es aceptable, tomar más tratamiento 
+~Ninguna de las anteriores 
+=a y b son correctas  }
+
+ Selección de opciones de tratamiento de riesgo La selección de las opciones de tratamiento de riesgo más apropiadas implica equilibrar los beneficios potenciales derivados en relación con el logro de los objetivos frente a los costos, el esfuerzo o las desventajas de la aplicación.   {T}
+
+Las opciones para tratar el riesgo pueden implicar uno o más de los siguientes  - Evitar el riesgo al decidir no iniciar o continuar con la actividad que da lugar al riesgo;- Tomar o aumentar el riesgo con el fin de perseguir una oportunidad; - Eliminación de la fuente de riesgo; - Cambiar la probabilidad; {T}
+
+Las opciones para tratar el riesgo pueden implicar uno o más de los siguientes - Cambiar las probabilidades- Tranferir el riesgo (por ejemplo, a través de contratos, seguros)- Reteniendo el riesgo por decisión no informada {F}
+
+Al seleccionar opciones de tratamiento de riesgo, la organización debería considerar los valores, percepciones y participación potencial de las partes interesadas y las formas más apropiadas de comunicarse y consultar con ellos. Aunque igualmente efectivos, los tratamientos de riesgo pueden ser más aceptables para algunas partes interesadas que para otras.  {T}
+
+Los tratamientos de riesgo, incluso si no están cuidadosamente diseñados e implementados podrían producir los resultados esperados y podrían producir consecuencias no intencionadas.  {F}
+
+El seguimiento y la revisión deben ser parte integrante del tratamiento de riesgo para garantizar que las diferentes formas de tratamiento se vuelvan y sigan siendo eficaces.  {T}
+
+El tratamiento del riesgo no puede introducir nuevos riesgos que necesitan ser administrados.  {F}
+
+ Los encargados de tomar decisiones y otras partes interesadas deberían ser conscientes de la naturaleza y el alcance del riesgo restante después del tratamiento del riesgo. El riesgo restante debe documentarse y someterse a seguimiento, revisión y, en su caso, tratamiento adicional.  {T}
+
+El propósito de los planes de tratamiento de riesgos es especificar cómo se implementarán las opciones elegidas de tratamiento, de manera que las mejoras sean entendidos por los involucrados, y el progreso del plan pueda ser monitoreado.  {T}
+
+Los planes de tratamiento deben integrarse en los planes y procesos de gestión de la organización, en consulta con las partes interesadas apropiadas.  {T}
+
+La información proporcionada en el plan de tratamiento de riesgos debe incluir  { 
+~Justificación para la selección de las opciones de tratamiento, incluidos los beneficios esperados que se deben obtener 
+~Responsables de aprobar y aplicar el plan 
+~Acciones propuestas 
+~Recursos necesarios, incluidas las contingencias 
+=Todas las anteriores  }
+
+La información proporcionada en el plan de tratamiento de riesgos debe incluir  { 
+~Medidas de actuación 
+~Limitaciones  
+~Informes y la supervisión requeridos  
+~Cuando se espera que las acciones se emprendan y se completen.  
+=Todas las anteriores  }
+
+El propósito del monitoreo y revisión es asegurar y mejorar la calidad y efectividad del diseño, implementación y resultados de los procesos. {T}
+
+ El monitoreo continuo y la revisión periódica del proceso de gestión de riesgos y sus resultados debe ser una parte planificada del proceso de gestión de riesgos, con responsabilidades claramente definidas.  {T}
+
+El seguimiento y la revisión deben realizarse en la etapa de identificaciónd de riesgos. {F}
+
+El monitoreo y revisión de riesgos incluye la planificación, recopilación y análisis de información, registro de resultados y retroalimentación.  {T}
+
+Los resultados de la supervisión y la revisión de la gestión de riesgos no deben incorporarse a lo largo de las actividades de gestión, medición y presentación de informes de la organización.  {F}
+
+El proceso de gestión de riesgos y sus resultados deben documentarse y reportarse mediante mecanismos apropiados. Los informes y registros pretenden - Comunicar las actividades y los resultados de la gestión de riesgos en toda la organización; - Proporcionar información para la toma de decisiones; - Mejorar las actividades de gestión de riesgos; - Ayudar a la interacción con las partes interesadas, incluyendo aquellas con responsabilidad y rendición de cuentas por las actividades de gestión de riesgos.  {T}
+
+La presentación de informes es una parte integral de la gobernanza de la organización y debería mejorar la calidad de la comunicación con las partes interesadas y apoyar a la alta dirección y organos de supervisión en el cumplimiento de sus responsabilidades. {T}
+
+ Los factores a considerar para la presentación de informes de gestión de riesgos incluyen, pero no se limitan a - Diferentes partes interesadas y sus necesidades y requisitos de información específicos; - Costo, frecuencia y puntualidad de la presentación de informes; - Método de presentación de informes; - Relevancia de la información para los objetivos organizacionales y la toma de decisiones.  {T}
+

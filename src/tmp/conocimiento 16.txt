@@ -1,0 +1,49 @@
+
+Las organizaciones que están obligadas a realizar valoraciones de riesgos con fines de cumplimiento  o de conformidad se beneficiarían de la utilización de técnicas de valoración del riesgo adecuadas, normalizadas y formales. {T}
+
+Las técnicas de valoración del riesgo tienen por objeto ayudar a las personas a comprender la incertidumbre y el riesgo asociado en este contexto amplio, complejo y diverso, con el fin de apoyar decisiones y acciones mejor informadas.  {T}
+
+ Las técnicas de valoración del riesgo no se pueden aplicar dentro de este enfoque estructurado, que implica establecer un contexto, evaluar el riesgo y tratarlo, junto con el seguimiento, la revisión, la comunicación y la consulta, el registro y la presentación de informes continuos. {F}
+
+En el proceso de ISO 31000, la valoración del riesgo implica la identificación de los riesgos, su análisis y la utilización de los conocimientos obtenidos del análisis para evaluar los riesgos llegando a conclusiones sobre su importancia comparativa enrelación con los objetivos y los umbrales de desempeño de la organización. {T}
+
+En el proceso de ISO 31000, la valoración del riesgo proporciona elementos de entrada para la toma de decisiones sobre la necesidad de tratamiento, las prioridades para el tratamiento y las acciones previstas para tratar el riesgo. En la práctica, se aplica un enfoque iterativo.  {T}
+
+Se utilizan las técnicas de valoración del riesgo { 
+~Cuando se requiere una mayor comprensión de los riesgos existentes o acerca de un riesgo en particular 
+~Dentro de un proceso de gestión de riesgos que conduzca a acciones para tratar el riesgo 
+~Con respecto a una decisión, cuando es necesario comparar u optimizar una serie de opciones que implican riesgos 
+=Todas las anteriores   }
+
+En particular, las técnicas de valoración del riesgo se pueden utilizar para  { 
+~Suministrar información estructurada como apoyo a las decisiones y acciones cuando exista incertidumbre 
+~Aclarar las implicaciones de las hipótesis en el logro de los objetivos 
+~Comparar múltiples opciones, sistemas, tecnologías o enfoques, et, en los que existe una incertidumbre multifacética en torno a cada opción 
+=Todas las Anteriores  }
+
+En particular, las técnicas de valoración del riesgo se pueden utilizar para  { 
+~Ayudar a definir objetivos estratégicos y operacionales realistas 
+~Ayudar a determinar los criterios de riesgo de una organización, como los límites de riesgo, el apetito de riesgo o la capacidad de soportar riesgos 
+~tener en cuenta el riesgo a la hora de establecer o revisar las prioridades 
+=Todas las anteriores  }
+
+En particular, las técnicas de valoración del riesgo se pueden utilizar para  { 
+~Reconocer pero no comprender el riesgo, incluido el riesgo que pueda tener resultados extremos 
+~Entender qué circunstancias son las más importantes para los objetivos de una organización y no proporcionar una justificación de que se debe hacer al respecto; sino dejarlo a conclusiones subjetivas 
+~Reconocer y explotar las oportunidades con menos éxito 
+=Ninguna de las anteriores  }
+
+Al llevar a cabo una valoración del riesgo, los participantes deberían ser conscientes delas circunstancias más amplias en las que se tomarán las decisiones y se llevarán a caboacciones basadas en su valoración. Esto incluye la comprensión de las cuestiones internas y externas que contribuyen al contexto de la organización, así como de los aspectos sociales y ambientales más amplios. Cualquier declaración de contexto pertinente debería ser revisada y verificada para determinar si está vigente y es apropiad  {T}
+
+Es recomendable decidir cómo se comunicarán de manera fiable, precisa y transparente los elementos de salida y los resultados de la valoración del riesgo a las partes interesadas pertinentes.  {T}
+
+Los aspectos humanos sonm pertinentes para la valoración del riesgo de las siguientes maneras  • como fuente de incertidumbre; • por medio de influencias en la forma en que se seleccionan y aplican las técnicas; • en las formas en que se interpreta y utiliza la información (por ejemplo, debido a las diferentes percepciones del riesgo).  {T}
+
+Antes no se hace necesario y durante en pocas ocasiones en  la valoración del riesgo, se debería obtener la información pertinent {F}
+
+Se pueden utilizar técnicas de valoración para { 
+~Determinar las causas, las fuentes y los factores de riesgo, así como el nivel de exposición a ellos 
+~Investigar la eficacia general de los controles y modificar el efecto de los tratamientos de riesgo propuestos 
+=Todas las anteriores 
+~ }
+

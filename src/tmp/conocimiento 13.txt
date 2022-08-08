@@ -1,0 +1,41 @@
+
+Uno de los principales instrumentos para prevenir y controlar los Riesgos LA/FT/FPADM a los que se encuentra expuesta una Empresa Obligada, es la aplicación de medidas de ________________  de la Contraparte, con un enfoque basado en riesgo y la materialidad del mismo. { 
+=Debida Diligencia 
+~Debida Diligencia Intensificada  }
+
+El monitoreo y actualización del proceso de Debida Diligencia deberá hacerse con la periodicidad y regularidad establecidas por la Empresa Obligada, mínimo una vez cada tres (3) años {F}
+
+Si la Empresa Obligada no puede llevar a cabo la Debida Diligencia satisfactoriamente, deberá evaluar la pertinencia de iniciar o terminar la relación legal o contractual, así como también la procedencia de reportar la operación como sospechosa {T}
+
+Si no puede llevar a cabo la Debida Diligencia satisfactoriamente una vez establecida la relación comercial, la Empresa Obligada deberá evaluar de acuerdo con su Política LA/FT si debe continuar con la relación contractual y si es procedente hacer un ROS en relación con la Contrapart {T}
+
+Son consideraciones adicionales sobre la Debida Diligencia { 
+~%33.33333%	Operaciones de efectivo 
+~%33.33333%	Ventas masivas 
+~%-5%	Compras masivas 
+~%33.33333%	Transacciones con Activos Virtuales 
+~%-5%	Transacciones Electrónicas 
+~%-5%	Ninguna de las anteriores  }
+
+El procedimiento de Debida Diligencia Intensificada que realiza la Empresa Obligada  se aplica a { 
+~%33.33333%	aquellas Contrapartes que representan un mayor riesgo 
+~%-5%	aquellas Contrapartes que representan un menor riesgo 
+~%33.33333%	a los PEP 
+~%33.33333%	a aquellas ubicadas en países no cooperantes 
+~%-5%	Ninguna de las anteriores 
+~%-5%	Toda las anteriores  }
+
+La Identificación al cliente y verificación de la identidad se utilizará la documentación suministrada por el client {F}
+
+Se trata de individuos que desempeñan o han desempeñado funciones públicas destacadas en un país, por ejemplo, Jefes de Estado o de un Gobierno, políticos de alta jerarquía, funcionarios gubernamentales, judiciales o militares de alta jerarquía, altos ejecutivos de empresas estatales o funcionarios importantes de partidos políticos.¿A qué se hace referencia? { 
+~Contraparte 
+~Cliente  
+=PEP 
+~Todas las anteriores  }
+
+Estas personas serán PEP durante el periodo en que ocupen sus cargos y a lo largo de los dos (4) años siguientes a la dejación, renuncia, despido o declaración de insubsistencia del nombramiento, o de cualquier otra forma de desvinculación {F}
+
+De acuerdo con la Regulación y supervisión de las APNFD. los casinos deben recibir licencia, deben de contar con licenci {T}
+
+Es responsabilidad de las autoridades competentes asegurar que los casinos estén supervisados eficazmente en cuanto al cumplimiento con los requisitos ALA/CFT {T}
+

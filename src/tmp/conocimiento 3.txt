@@ -1,0 +1,162 @@
+
+Los países deben de contar con políticas a escala nacional, que tomen en cuenta los riesgos identificados. ¿A qué políticas hacen referencia?   { 
+~ALA (Lavado de activos) 
+~CFT (Financiamiento del terrorismo) 
+~CFP (Financiamiento de la proliferación de armas de destrucción masiva) 
+=Toda las anteriores  }
+
+_______________ debe participar activamente en los procedimientos de diseño, dirección, implementación, auditoría, verificación del cumplimiento y monitoreo del SAGRILAFT. { 
+=El Oficial de Cumplimiento 
+~El Representante legal  }
+
+Gozar de la capacidad de tomar decisiones para gestionar el Riesgo LA/FT/FPADM y tener comunicación directa con, y depender directamente de, la junta directiva o el máximo órgano social en caso de que no exista junta directiv { 
+~Representante legal 
+=Oficial de cumplimiento  }
+
+El que adquiera, resguarde, invierta, transporte, transforme, almacene, conserve, custodie o administre bienes que tengan su origen mediato o inmediato en actividades de tráfico de migrantes, trata de personas, extorsión, enriquecimiento ilícito, secuestro extorsivo, rebelión, tráfico de armas, tráfico de menores de edad,  financiación del terrorismo y administración de recursos relacionados con actividades terroristas, tráfico de drogas tóxicas, estupefacientes o sustancias sicotrópicas, delitos contra el sistema financiero, delitos contra la administración pública, contrabando, contrabando de hidrocarburos o sus derivados, fraude aduanero o favorecimiento y facilitación del contrabando, favorecimiento de contrabando de hidrocarburos o sus derivados, en cualquiera de sus formas, o vinculados con el producto de delitos ejecutados bajo concierto para delinquir, o les dé a los bienes provenientes de dichas actividades apariencia de legalidad o los legalice, oculte o encubra la verdadera naturaleza, origen, ubicación, destino, movimiento o derecho sobre tales bienes o realice cualquier otro acto para ocultar o encubrir su origen ilícito, incurrirá por esa sola conducta, en prisión de diez (5) a treinta (10) años y multa de mil (1.000) a cincuenta mil (50.000) salarios mínimos legales mensuales vigentes {F}
+
+Se considera  delito fuente de de lavado de activos { 
+~Delitos contra la administración pública 
+~Peculado por apropiación 
+~Concusión 
+~Utilización indebida de información oficial privilegiada 
+=Toda las anteriores  }
+
+Las políticas ALA CFP y CFP ¿Con qué tiempo se revisan? { 
+~6 meses 
+~12 meses 
+~24 meses 
+=Periódicamente  }
+
+Cuales son las autoridades que hacen las políticas ALA CFP y CFP  { 
+~%25% la Unidad de Inteligencia Financiera (UIF) 
+~%25% los supervisores 
+~%25% otras autoridades competentes relevantes, tanto a nivel de formulación de políticas como operativo 
+~%25% las autoridades del orden público 
+~%-5% a y b son verdaderas 
+~%-5% a y c son verdaderas  }
+
+¿Qué es la Unidad de Información y Análisis Financiero -UIAF-?Es una Unidad Administrativa Especial con personería jurídica, autonomía administrativa y patrimonio independiente, de carácter técnico, adscrita al Ministerio de Hacienda y Crédito Público {T}
+
+¿La UIAF es una entidad de inteligencia y contrainteligencia del Estado? {T}
+
+¿Quiénes son los supervisores? Los supervisores se refieren a las autoridades competentes designadas responsables de asegurar el cumplimiento por parte de las instituciones que, para el caso de Colombia, pertenecen a los sectores financiero, Real y/o APNFD que tienen entre otras funciones la prevención y detección del lavado de activos y el financiamiento del terrorismo. {T}
+
+El delito de lavado de activo se considera  { 
+~Doloso 
+~Culposo 
+~preterintencional 
+=Ninguno de los anteriores.  }
+
+Los países deben asegurar que Deben existir delitos auxiliares para el delito de lavado de activos, incluyendo la participación en, asociación con o conspiración para cometer, intentar, ayudar y cooperar, facilitar y asesorar la comisión del delito, a menos que esto no esté permitido por los principios fundamentales de derecho interno.  {T}
+
+Los países deben adoptar medidas para la Represión de la Financiación del Terrorismo, incluyendo medidas legislativas, que permitan a sus autoridades competentes congelar o incautar y decomisar lo siguiente, sin perjuicio de los derechos de terceros de buena fe (a) bienes lavados(b) producto de, o instrumentos utilizados en, o destinados al uso en, delitos de lavado de activos o delitos determinantes(c) bienes que son el producto de, o fueron utilizados en, o que se pretendía utilizar o asignar para ser utilizados en el financiamiento del terrorismo, actos terroristas u organizaciones terroristas(d) bienes de valor equivalent¿A qué Recomendación hace referencia? { 
+=Recomendación 4 
+~Recomendación 2 
+~Recomendación 6 
+~Ninguna de las anteriores.  }
+
+Los delitos de financiamiento del terrorismo deben extenders { 
+~cualquier fondo 
+~otros activos 
+~procedan de fuente legítima 
+~Procedan de fuente ilegítim 
+=Toda las anteriores  }
+
+Debe de constituir un delito el intento de cometer el delito de financiamiento del terrorismo {T}
+
+El financiamiento al terrorismo incluye la financiación del viaje que hacen individuos a un Estado distinto de sus Estados de residencia o nacionalidad con el objetivo de perpetrar, planear, preparar o participar en actos terroristas o proveer o recibir entrenamiento terrorist {T}
+
+La tipificación del financiamiento del terrorismo únicamente sobre la base de la instigación, el intento o la conspiración, no es suficiente para cumplir con la Recomendación 5. {T}
+
+Los países miembros del GAFI deben implementar regímenes de sanciones financieras para cumplir con las Resoluciones del Consejo de Seguridad de las Naciones Unidas relativas a la prevención y represión del terrorismo y el financiamiento del terrorismo. ¿A qué resoluciones hacen referencia? { 
+~%33.33333%	Resolución 1267 (1999) 
+~%-5%	Resolución 1269 (2000) 
+~%33.33333%	Resolución 1373 (2001) 
+~%-5%	Resolución 1378 (2005) 
+~%33.33333%	Resolución 1988 (2011) 
+~%-5%	Ninguna de las anteriores  }
+
+Es una obligación de los países revisar la idoneidad de las leyes y regulaciones relativas a las entidades sin fines de lucro. {T}
+
+No es una obligación de los países establecer medidas focalizadas y proporcionales, en línea con el enfoque basado en riesgo, a tales organizaciones sin fines de lucro para protegerlas del abuso para el financiamiento del terrorismo. {F}
+
+Las Organizaciones sin Fines de Lucro (OSFL) pueden ser vulnerables al abuso para el financiamiento del terrorismo. {T}
+
+El GAFI Recomienda que las leyes sobre el secreto de la información financiera No impidan la implementación de las recomendaciones.  {T}
+
+No se prohíbe a las instituciones financieras que mantengan cuentas anónimas o cuentas con nombres obviamente ficticios. {T}
+
+Gozar de la capacidad de tomar decisiones para gestionar el Riesgo LA/FT/FPADM y tener comunicación directa con, y depender directamente de, la junta directiva o el máximo órgano social en caso de que no exista junta directiva { 
+~Representante legal 
+=Oficial de cumplimiento  }
+
+Promover la adopción de correctivos y actualizaciones al SAGRILAFT, cuando las circunstancias lo requieran y por lo menos una vez cada dos (2) años. Para ello deberá presentar a la junta directiva o al máximo órgano social, según el caso, las propuestas y justificaciones de los correctivos y actualizaciones sugeridas al SAGRILAFT. { 
+~Representante legal 
+=Oficial de cumplimiento  }
+
+Certificar ante la Superintendencia de Sociedades el cumplimiento de lo previsto en el presente Capítulo X, según lo requiera la Superintendencia de Sociedades. { 
+=Representante legal 
+~Oficial de cumplimiento  }
+
+80.	Los Contadores Públicos, cuando otorguen fe pública en materia contable, se asimilarán a funcionarios públicos para efectos de las sanciones penales por los delitos que cometieren en el ejercicio de las actividades propias de su profesión, sin perjuicio de las  responsabilidades de orden civil que hubiere lugar conforme a las leyes. { 
+~artículo 32 de la Ley 1778 de 2016 
+=artículo 10 de la Ley 43 de 1990 
+~artículo 38 de la Ley 1952 de 2019  }
+
+El _____________________, le impone a los revisores fiscales, el deber de denunciar ante las autoridades penales, disciplinarias y administrativas, la presunta realización de un delito contra el orden económico y social, como el de LA, que detecte en el ejercicio de su cargo, aún, a pesar del secreto profesional { 
+~artículo 38 de la Ley 1952 de 2019 
+=artículo 32 de la Ley 1778 de 2016 
+~artículo 10 de la Ley 43 de 1990  }
+
+Para garantizar el cumplimiento de las obligaciones internacionales de Colombia, relativas a la aplicación de disposiciones sobre congelamiento y prohibición de manejo de fondos u otros Activos, prohibición de viajar y embargo de armas, de personas y entidades designadas por el Consejo de Seguridad de las Naciones Unidas, relacionadas con el Financiamiento del Terrorismo, en consonancia con el artículo 25 de la Ley 2315 de 2005 y las Recomendaciones GAFI No. 8 y 9, las Empresas Obligadas deben consultar permanentemente las Listas Vinculantes. {F}
+
+puede designar como Oficial de Cumplimiento al•	revisor fiscal •	al representante legal. {F}
+
+El SAGRILAFT deberá contemplar, como mínimo, las siguientes etapas para identificar, prevenir, controlar y gestionar el Riesgo de LA/FT/FPADM y las consecuencias de su materialización {T}
+
+La Empresa Obligada deberá establecer herramientas y aplicativos, preferiblemente tecnológicos, que permitan identificar Operaciones Inusuales y Operaciones Sospechosas. Mediante la consolidación de información, estas plataformas tecnológicas deben generar indicadores y alertas a partir de los cuales se pueda inferir o advertir la existencia de situaciones que no se ajusten a las pautas de normalidad establecidas por la Empresa Obligadas para un sector, una industria o una clase de Contrapart Una vez identificada y analizada una Operación Inusual o una Operación Sospechosa, deberán conservarse los soportes que dieron lugar a calificarla en una u otra categoría, de acuerdo con lo previsto en el artículo { 
+~artículo 3º de la Ley 526 de 1999 
+~artículo 7º del Decreto 1736 de 2020. 
+=28 de la Ley 962 de 2005 
+~artículo 20 de la Ley 1121 de 2006  }
+
+106. Según el artículo 3º de la Ley 526 de 1999, la UIAF realizará, sistematizará y analizará mediante actividades de inteligencia financiera la información recaudada, en desarrollo de lo previsto en los artículos 102 a 107 del Estatuto Orgánico del Sistema Financiero y sus normas remisorias o complementarias, las normas tributarias, aduaneras y demás información que conozcan las entidades del Estado o privadas que pueda resultar relevantes para el ejercicio de sus funciones. Dichas entidades estarán obligadas a suministrar de oficio o a solicitud de la Unidad, la información de que trata el presente artículo. A si mismo, la unidad podrá recibir información de personas jurídicas. {F}
+
+Están obligadas a adoptar el Régimen de Medidas Mínimas las APNFD que pertenezcan a cualquiera de los sectores señalados, y conforme a los criterios mencionados, en el numeral 4.3 del presente Capítulo X Respecto de las Empresas inspeccionadas por la Superintendencia de Sociedades Las Empresas Obligadas deberán adoptar las siguientes medidas mínimas { 
+~%50%	Comunicar y divulgar, a través del representante legal, las medidas mínimas que la Empresa adoptó para prevenir y mitigar los Riesgos LA/FT/FPADM 
+~%50%	Disponer de registros y documentos de soporte de la ejecución e implementación del Régimen de Medidas Mínimas 
+~%-5%	Operaciones, negocios o contratos relevantes que no consten por escrito 
+~%-5%	Operaciones con Productos de venta restringida que no cuenten con las debidas autorizaciones o licencias 
+~%-5%	Toda las anteriores  }
+
+La Superintendencia de Sociedades puede impartir la implementación del SAGRILAFT y régimen de medidas mínimas a cualquier empresa sometida a su supervisión. {T}
+
+La Superintendencia de Sociedades puede impartir la implementación del SAGRILAFT y régimen de medidas mínimas a cualquier empresa sometida a su supervisión. Lo anterior, en ejercicio de la función de instruir a las entidades sujetas a su supervisión, sobre las medidas que deben adoptar para la prevención del Riesgo de LA/FT/FPADM, prevista en el numeral { 
+=28 del artículo 7º del Decreto 1736 de 2020 
+~30 del artículo 7º del Decreto 1734 de 2020 
+~20 del artículo 7º del Decreto 1730 de 2020  }
+
+Las Empresas que adquieran la calidad de Empresas Obligadas al SAGRILAFT o al Régimen de Medidas Mínimas a partir _______________ de cualquier año, deberán poner en marcha el SAGRILAFT o el Régimen de Medidas Mínimas, respectivamente, ____________________ del año siguiente al que adquirieron la calidad de Empresas Obligadas { 
+~Del 31 de octubre a más tardar 31 marzo 
+=Del 31 de diciembre a más tardar el 31 de mayo 
+~Del 31 de diciembre a más tardar el 31 de julio  }
+
+Las Empresas que a la fecha de expedición de la presente Circular se encuentren obligadas conforme a lo dispuesto por la Circular No. 100-000005 de 2017, deberán revisar y ajustar su Política LA/FT/FPADM y SAGRILAFT para verificar que se ajuste a lo dispuesto en este Capítulo X a más tardar el 31 de mayo de 2021 { 
+~Circular 100-000017 de 2020 
+~Circular 100-000018 de 2019 
+=Circular 100-000016 de 2020 
+~Circular 100-000015 de 2020  }
+
+El incumplimiento de las órdenes e instrucciones impartidas en el presente Capitulo X, dará lugar a las investigaciones administrativas que sean del caso y a la imposición de las sanciones administrativas pertinentes a la Empresa Obligada, el Oficial de Cumplimiento, revisor fiscal o a sus administradores, de conformidad con lo establecido en el numeral _______________________________, sin perjuicio de las acciones que correspondan a otras autoridades { 
+~3 del artículo 88 de la Ley 222 de 1997 
+~3 del artículo 60 de la Ley 222 de 1991 
+~3 del artículo 80 de la Ley 222 de 1995 
+=3 del artículo 86 de la Ley 222 de 1995  }
+
+La Superintendencia de Sociedades, como una buena práctica empresarial y de buen gobierno corporativo, recomienda a las Empresas sometidas a su supervisión, que no se encuentren obligadas a adoptar las indicaciones del presente Capítulo X, estudiar de forma específica si se encuentran expuestas a un Riesgo LA/FT/FPADM o riesgos asociados, de modo que las medidas acá señaladas se adopten de forma voluntaria como parte de la autogestión y control de los riesgos que corresponde a toda Empres {T}
+
+No se prohíbe a las instituciones financieras que mantengan cuentas anónimas o cuentas con nombres obviamente ficticios. {F}
+
+No se requiere la aprobación de la alta gerencia para establecer nuevas relaciones corresponsales transfronteriza y otras relaciones similares {F}
+

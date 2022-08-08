@@ -1,0 +1,7 @@
+
+En caso de que transcurra un trimestre sin que la Empresa Obligada realice un ROS, el Oficial de Cumplimiento, dentro de los ________ días calendario siguientes al vencimiento del respectivo trimestre, deberá presentar un informe de ausencia de ROS  a través del SIREL. { 
+~Doce (12)  
+~Quince (15) 
+=Diez (10) 
+~Veinte (20)  }
+

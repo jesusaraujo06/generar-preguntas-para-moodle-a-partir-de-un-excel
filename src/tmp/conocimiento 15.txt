@@ -1,0 +1,74 @@
+
+La identificación del riesgo posibilita tener en cuenta explícitamente la incertidumbr Todas las fuentes de incertidumbre y los efectos tanto beneficiosos como perjudiciales podrían ser pertinentes, dependiendo del contexto y del alcance de la valoración. {T}
+
+Las técnicas para identificar el riesgo suelen utilizar los conocimientos y la experiencia de diversos grupos de interés. {T}
+
+Las técnicas para identificar el riesgo pueden considerar { 
+~Qué incertidumbre existe y cuáles podrían ser sus efectos 
+~Qué circunstancias o cuestiones (tangibles o intangibles) pueden tener consecuencias en el futuro 
+~Qué fuentes de riesgo están presentes o se podrían desarrollar; qué controles existen y si son eficaces 
+=Todas las anteriores  }
+
+Las técnicas para identificar el riesgo pueden considerar { 
+~Qué eventos y consecuencias podrían ocurrir, y cómo, cuándo, dónde y por qué razón 
+~Qué ha ocurrido en el pasado y cómo esto podría relacionarse razonablemente con el futuro 
+~Qué aspectos humanos y factores organizacionales podrían aplicars 
+=Todas las anteriores  }
+
+Las encuestas físicas también pueden ser útiles para identificar fuentes de riesgo o señales de alerta temprana de consecuencias potenciales {T}
+
+El elemento de salida de la identificación de riesgos no se puede registrar como una lista de riesgos con eventos, causas y consecuencias especificadas, o por medio de otros formatos adecuados. {F}
+
+Independientemente de las técnicas que se utilicen, la identificación de riesgos se debería abordar en una forma metódica e iterativa para que sea completa y eficient {T}
+
+Independientemente de las técnicas que se utilicen, la identificación de riesgos se debería abordar en una forma metódica e iterativa para que sea completa y eficient El riesgo se debería identificar en una etapa suficientemente temprana para permitir que se emprendan acciones siempre que sea posibl Sin embargo, hay ocasiones en las que no es posible identificar algunos riesgos durante una valoración del riesgo. Por lo tanto, se debería establecer un mecanismo para detectar los riesgos emergentes yreconocer las señales de alerta tempranas acerca de posibles éxitos o fracasos. {T}
+
+La identificación de las causas, las fuentes y los factores de riesgo pueden  { 
+~Contribuir a estimar la probabilidad de un evento o consecuencia 
+~Ayudar a identificar los tratamientos que modificarán el riesgo 
+=Todas las anteriores  }
+
+La identificación de las causas, las fuentes y los factores de riesgo pueden  { 
+~Ayudar a determinar las señales de alerta tempranas y sus umbrales de detección 
+~Determinar las causas comunes que pueden ayudar a desarrollar prioridades para el tratamiento del riesgo.  
+=Todas las anteriores  }
+
+La información procedente de la identificación y el análisis de riesgos se puede utilizar para sacar conclusiones acerca de si el riesgo se debería aceptar y la importancia comparativa del riesgo en relación con los objetivos y los umbrales de desempeño de laorganización.  {T}
+
+Herramientas y tecnicas que se pueden utilizar para identificación de riesgos { 
+~Lluvia de ideas  
+~Listas de chequeo, clasificaciones y taxonomías 
+~Enfoque cindínico  
+=Todas las anteriores  }
+
+Herramientas y tecnicas que se pueden utilizar para identificación de riesgos { 
+~%50% Técnica Delphi  
+~%50% Análisis de modo y efecto de falla  
+~%-5% Análisis de árbol de eventos  
+~%-5% Simulación de Monte Carlo simulation  }
+
+Las técnicas de identificación de riesgos pueden incluir { 
+=Métodos basados en evidencias, tales como revisiones de la literatura y análisis de datos históricos 
+~Métodos prácticos, incluidas las entrevistas y el modelado para identificar lo que se ha presentado  en determinadas circunstancias 
+~Entrevistas  de percepción, que no incluyen los puntos de vista de una amplia gama de personas experimentadas 
+~Todas las anteriores   }
+
+Las técnicas de identificación de riesgos pueden incluir { 
+~Métodos empíricos, incluidas las pruebas y el modelado para identificar lo que podría ocurrir en determinadas circunstancias 
+~Encuestas de percepción, que incluyen los puntos de vista de una amplia gama de personas experimentadas 
+~Técnicas en las que el tema que se está examinando se divide en elementos más pequeños, cada uno de los cuales se examina a su vez utilizando métodos que plantean preguntas del tipo ¿qué pasaría si?  
+=Todas las anteriores  }
+
+El riesgo se describe a menudo en términos de fuentes de riesgo, eventos potenciales, sus consecuencias y sus probabilida Un evento puede tener múltiples causas y llevar a múltiples consecuencias.  {T}
+
+Un evento no puede tener múltiples causas y no llevar a múltiples consecuencias. {F}
+
+El riesgo se ve afectado por la eficacia general de cualquier control establecido. Se deberían tener en cuenta los siguientes aspectos de los controles • El mecanismo mediante el cual está previsto que los controles modifiquen el riesgo • Si hay controles establecidos, si están en capacidad de funcionar según lo previsto y si están logrando los resultados esperados• Si existen deficiencias en el diseño de los controles o en la forma en que se aplican {T}
+
+El riesgo se ve afectado por la eficacia general de cualquier control establecido. Se deberían tener en cuenta los siguientes aspectos de los controles  { 
+~Si hay vacíos en los controles 
+~Si los controles funcionan independientemente o si necesitan funcionar colectivamente para ser eficaces  
+~Si existen factores, condiciones, vulnerabilidades o circunstancias que puedan reducir o eliminar la eficacia del control, incluidas las fallas por causas comunes 
+~Si los propios controles introducen riesgos adicionales.  
+=Todas las Anteriores  }
+
